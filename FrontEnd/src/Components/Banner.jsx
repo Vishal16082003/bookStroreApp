@@ -25,7 +25,7 @@ export default function Banner() {
                             <input type="email" placeholder="Enter your email to login "  required />
                         </label>
                     </div>
-                    <button className="btn btn-secondary mt-6">Secondary</button>
+                    <button className="btn btn-secondary mt-6">Get Started</button>
 
                 </div>
                 <div className=" order-1 w-full md:w-1/2">
